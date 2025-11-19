@@ -50,6 +50,7 @@ If you're into data, dashboards  you're in the right place!
 - Making clean, easy-to-understand dashboards  
 - Playing
 
+---
 
 ### ☁️ Microsoft Azure
 - Using Azure SQL + Blob Storage for cloud data  
