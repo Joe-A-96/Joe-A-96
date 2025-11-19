@@ -13,7 +13,7 @@ If you're into data, dashboards  you're in the right place!
 
 
 
-## 🚀 Skills & Tools — What I Actually Use
+## 🚀 Skills & Tools
 
 ### 🟦 Excel
 - All the usual magic: `VLOOKUP`, `SUMIFS`, `SUM` pivot tables  
